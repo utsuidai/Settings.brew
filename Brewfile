@@ -14,6 +14,7 @@ brew jq
 brew kubectx
 brew kubernetes-cli
 brew libidn2
+brew libtool
 brew libunistring
 brew libyaml
 brew lua
@@ -34,6 +35,7 @@ brew sqlite
 brew stern
 brew tfenv
 brew tree
+brew unixodbc
 brew vim
 brew watch
 brew wget
