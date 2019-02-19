@@ -14,6 +14,7 @@ brew jq
 brew kubectx
 brew kubernetes-cli
 brew libidn2
+brew libiodbc
 brew libtool
 brew libunistring
 brew libyaml
@@ -49,7 +50,7 @@ cask docker
 cask google-cloud-sdk
 cask postman
 cask slack
-cask visual-studio-code
+cask the-unarchiver
 
 tap argon/mas
 
@@ -60,7 +61,8 @@ brew brew-file
 cask dropbox
 cask minikube
 cask rescuetime
-cask the-unarchiver
+cask tableau
+cask visual-studio-code
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.2.4)
