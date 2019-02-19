@@ -11,6 +11,7 @@ brew gdbm
 brew gettext
 brew gnu-sed
 brew jq
+brew kubectx
 brew kubernetes-cli
 brew libidn2
 brew libunistring
@@ -30,6 +31,7 @@ brew readline
 brew ruby
 brew ruby-build
 brew sqlite
+brew stern
 brew tfenv
 brew tree
 brew vim
@@ -44,7 +46,7 @@ tap homebrew/cask
 cask docker
 cask google-cloud-sdk
 cask postman
-cask tableau
+cask slack
 cask visual-studio-code
 
 tap argon/mas
@@ -55,7 +57,7 @@ brew brew-file
 # Other Cask applications
 cask dropbox
 cask minikube
-cask slack
+cask rescuetime
 cask the-unarchiver
 
 # App Store applications
@@ -63,4 +65,4 @@ appstore 1333542190 1Password 7 (7.2.4)
 appstore 0 Install macOS Mojave (14.2.2)
 appstore 441258766 Magnet (2.4.2)
 appstore 425955336 Skitch (2.8.2)
-appstore 497799835 Xcode (9.2)
+appstore 497799835 Xcode (10.1)
