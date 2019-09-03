@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew autoconf
+brew awscli
 brew bash-completion
 brew coreutils
 brew direnv
@@ -14,15 +15,14 @@ brew jq
 brew kubectx
 brew kubernetes-cli
 brew libidn2
-brew libiodbc
 brew libtool
 brew libunistring
 brew libyaml
 brew lua
 brew mas
-brew mysql
 brew oniguruma
 brew openssl
+brew openssl@1.1
 brew perl
 brew pkg-config
 brew pyenv
@@ -36,9 +36,6 @@ brew sqlite
 brew stern
 brew tfenv
 brew tree
-brew unixodbc
-brew vim
-brew watch
 brew wget
 brew xz
 
@@ -47,9 +44,8 @@ cask docker-edge
 
 tap homebrew/cask
 cask docker
-cask google-cloud-sdk
+cask iterm2
 cask postman
-cask slack
 cask the-unarchiver
 
 tap argon/mas
@@ -58,15 +54,17 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask dropbox
+cask google-cloud-sdk
 cask minikube
-cask rescuetime
-cask tableau
+cask slack
 cask visual-studio-code
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.2.4)
-appstore 0 Install macOS Mojave (14.2.2)
-appstore 441258766 Magnet (2.4.2)
-appstore 425955336 Skitch (2.8.2)
-appstore 497799835 Xcode (10.1)
+appstore 1333542190 1Password 7 (7.3.2)
+appstore 682658836 GarageBand (10.3.2)
+appstore 408981434 iMovie (10.1.12)
+appstore 409183694 Keynote (9.1)
+appstore 441258766 Magnet (2.4.4)
+appstore 784801555 Microsoft OneNote (16.28)
+appstore 409203825 Numbers (6.1)
+appstore 409201541 Pages (8.1)
