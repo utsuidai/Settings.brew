@@ -24,6 +24,7 @@ brew oniguruma
 brew openssl
 brew openssl@1.1
 brew perl
+brew pipenv
 brew pkg-config
 brew pyenv
 brew pyenv-virtualenv
@@ -32,6 +33,7 @@ brew rbenv
 brew readline
 brew ruby
 brew ruby-build
+brew speedtest-cli
 brew sqlite
 brew stern
 brew tfenv
