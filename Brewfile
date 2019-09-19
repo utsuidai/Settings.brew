@@ -26,6 +26,7 @@ brew openssl@1.1
 brew perl
 brew pipenv
 brew pkg-config
+brew pwgen
 brew pyenv
 brew pyenv-virtualenv
 brew python
@@ -35,6 +36,7 @@ brew ruby
 brew ruby-build
 brew speedtest-cli
 brew sqlite
+brew starship
 brew stern
 brew tfenv
 brew tree
@@ -67,6 +69,7 @@ appstore 682658836 GarageBand (10.3.2)
 appstore 408981434 iMovie (10.1.12)
 appstore 409183694 Keynote (9.1)
 appstore 441258766 Magnet (2.4.4)
-appstore 784801555 Microsoft OneNote (16.28)
+appstore 784801555 Microsoft OneNote (16.29)
 appstore 409203825 Numbers (6.1)
 appstore 409201541 Pages (8.1)
+appstore 425955336 Skitch (2.8.4)
