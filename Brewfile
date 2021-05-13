@@ -156,7 +156,7 @@ cask minikube
 # App Store applications
 appstore 1333542190 1Password 7 (7.8.1)
 appstore 408981434 iMovie (10.2.3)
-appstore 1475897096 Jira (128.1.0)
+appstore 1475897096 Jira (129.0.0)
 appstore 409183694 Keynote (11.0.1)
 appstore 405399194 Kindle (1.31.0)
 appstore 441258766 Magnet (2.6.0)
