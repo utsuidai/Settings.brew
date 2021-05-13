@@ -75,6 +75,7 @@ brew nginx
 brew node-build
 brew nodenv
 brew oniguruma
+brew openjdk
 brew openssl@1.1
 brew pango
 brew pcre
