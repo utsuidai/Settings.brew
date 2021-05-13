@@ -121,7 +121,6 @@ tap homebrew/services
 tap homebrew/cask
 cask authy
 cask cyberduck
-cask datadog-agent
 cask deepl
 cask docker
 cask figma
