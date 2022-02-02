@@ -82,6 +82,7 @@ brew pcre
 brew pcre2
 brew perl
 brew pipenv
+brew pipx
 brew pixman
 brew pkg-config
 brew po4a
@@ -94,8 +95,10 @@ brew python@3.8
 brew python@3.9
 brew rbenv
 brew readline
+brew redis
 brew ruby
 brew ruby-build
+brew siege
 brew sonar-scanner
 brew speedtest-cli
 brew sqlite
@@ -106,6 +109,7 @@ brew telnet
 brew terraform-ls
 brew tfenv
 brew tflint
+brew tfupdate
 brew tree
 brew watch
 brew webp
@@ -120,6 +124,7 @@ tap homebrew/services
 
 tap homebrew/cask
 cask authy
+cask aws-vault
 cask cyberduck
 cask deepl
 cask docker
@@ -145,10 +150,15 @@ brew sentry-cli
 
 tap hashicorp/tap
 
+tap minamijoyo/tfupdate
+
 tap rcmdnk/file
 brew brew-file
 
 tap wata727/tflint
+
+tap yukiarrr/tap
+brew ecsk
 
 # Other Cask applications
 cask minikube
