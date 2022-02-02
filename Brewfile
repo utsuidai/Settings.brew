@@ -10,6 +10,7 @@ brew bash-completion
 brew berkeley-db
 brew brew-cask-completion
 brew buildkit
+brew ca-certificates
 brew cairo
 brew cloc
 brew cmake
@@ -27,7 +28,9 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gh
+brew giflib
 brew glib
+brew gmp
 brew gnu-sed
 brew gnu-tar
 brew gobject-introspection
@@ -44,7 +47,10 @@ brew jpeg
 brew jq
 brew kubectx
 brew kubernetes-cli
+brew libcbor
+brew libevent
 brew libffi
+brew libfido2
 brew libidn2
 brew libpng
 brew libpthread-stubs
@@ -60,6 +66,7 @@ brew libxext
 brew libxrender
 brew libyaml
 brew lua
+brew lz4
 brew lzo
 brew m4
 brew mas
@@ -76,6 +83,7 @@ brew node-build
 brew nodenv
 brew oniguruma
 brew openjdk
+brew openjdk@11
 brew openssl@1.1
 brew pango
 brew pcre
@@ -90,6 +98,7 @@ brew protobuf
 brew pwgen
 brew pyenv
 brew pyenv-virtualenv
+brew python@3.10
 brew python@3.7
 brew python@3.8
 brew python@3.9
@@ -99,6 +108,7 @@ brew redis
 brew ruby
 brew ruby-build
 brew siege
+brew six
 brew sonar-scanner
 brew speedtest-cli
 brew sqlite
@@ -116,6 +126,7 @@ brew webp
 brew wget
 brew xorgproto
 brew xz
+brew zstd
 
 tap homebrew/cask-versions
 cask docker-edge
@@ -164,16 +175,17 @@ brew ecsk
 cask minikube
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.8.1)
-appstore 408981434 iMovie (10.2.3)
-appstore 1475897096 Jira (129.0.0)
-appstore 409183694 Keynote (11.0.1)
-appstore 405399194 Kindle (1.31.0)
-appstore 441258766 Magnet (2.6.0)
-appstore 1480068668 Messenger (97.11.116)
-appstore 784801555 Microsoft OneNote (16.48)
-appstore 409203825 Numbers (11.0)
-appstore 409201541 Pages (11.0)
+appstore 1333542190 1Password 7 (7.9.2)
+appstore 1168254295 AmorphousDiskMark (4.0)
+appstore 408981434 iMovie (10.3.1)
+appstore 1475897096 Jira (147.0.0)
+appstore 409183694 Keynote (11.2)
+appstore 405399194 Kindle (1.33.0)
+appstore 441258766 Magnet (2.7.0)
+appstore 1480068668 Messenger (134.0)
+appstore 784801555 Microsoft OneNote (16.57)
+appstore 409203825 Numbers (11.2)
+appstore 409201541 Pages (11.2)
 appstore 425955336 Skitch (2.9)
-appstore 1153157709 Speedtest (1.20)
-appstore 497799835 Xcode (12.5)
+appstore 1153157709 Speedtest (1.24)
+appstore 497799835 Xcode (13.2.1)
