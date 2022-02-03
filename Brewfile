@@ -4,8 +4,6 @@
 tap homebrew/core
 brew autoconf
 brew awscli
-brew azcopy
-brew azure-cli
 brew bash-completion
 brew berkeley-db
 brew brew-cask-completion
@@ -129,7 +127,6 @@ brew xz
 brew zstd
 
 tap homebrew/cask-versions
-cask docker-edge
 
 tap homebrew/services
 
@@ -138,15 +135,14 @@ cask authy
 cask aws-vault
 cask cyberduck
 cask deepl
-cask docker
 cask figma
 cask google-cloud-sdk
 cask iterm2
-cask microsoft-azure-storage-explorer
 cask obs
 cask obs-virtualcam
 cask postman
 cask qfinder-pro
+cask rancher
 cask slack
 cask the-unarchiver
 cask visual-studio-code
