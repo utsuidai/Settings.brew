@@ -2,12 +2,15 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew aom
 brew autoconf
 brew awscli
 brew bash-completion
 brew berkeley-db
 brew brew-cask-completion
+brew brotli
 brew buildkit
+brew c-ares
 brew ca-certificates
 brew cairo
 brew cloc
@@ -21,6 +24,7 @@ brew fish
 brew fontconfig
 brew freetype
 brew fribidi
+brew fx
 brew gd
 brew gdbm
 brew gdk-pixbuf
@@ -40,22 +44,28 @@ brew grep
 brew gts
 brew harfbuzz
 brew icu4c
+brew imath
 brew jasper
 brew jpeg
+brew jpeg-xl
 brew jq
 brew kubectx
 brew kubernetes-cli
+brew libavif
 brew libcbor
 brew libevent
 brew libffi
 brew libfido2
 brew libidn2
+brew libnghttp2
 brew libpng
 brew libpthread-stubs
 brew librsvg
 brew libtiff
 brew libtool
 brew libunistring
+brew libuv
+brew libvmaf
 brew libx11
 brew libxau
 brew libxcb
@@ -68,7 +78,6 @@ brew lz4
 brew lzo
 brew m4
 brew mas
-brew minikube
 brew mpdecimal
 brew mysql
 brew mysql-client
@@ -77,9 +86,11 @@ brew ncurses
 brew netpbm
 brew netperf
 brew nginx
+brew node
 brew node-build
 brew nodenv
 brew oniguruma
+brew openexr
 brew openjdk
 brew openjdk@11
 brew openssl@1.1
@@ -135,13 +146,13 @@ cask authy
 cask aws-vault
 cask cyberduck
 cask deepl
+cask discord
 cask figma
 cask google-cloud-sdk
 cask iterm2
 cask obs
 cask obs-virtualcam
 cask postman
-cask qfinder-pro
 cask rancher
 cask slack
 cask the-unarchiver
@@ -168,20 +179,3 @@ tap yukiarrr/tap
 brew ecsk
 
 # Other Cask applications
-cask minikube
-
-# App Store applications
-appstore 1333542190 1Password 7 (7.9.2)
-appstore 1168254295 AmorphousDiskMark (4.0)
-appstore 408981434 iMovie (10.3.1)
-appstore 1475897096 Jira (147.0.0)
-appstore 409183694 Keynote (11.2)
-appstore 405399194 Kindle (1.33.0)
-appstore 441258766 Magnet (2.7.0)
-appstore 1480068668 Messenger (134.0)
-appstore 784801555 Microsoft OneNote (16.57)
-appstore 409203825 Numbers (11.2)
-appstore 409201541 Pages (11.2)
-appstore 425955336 Skitch (2.9)
-appstore 1153157709 Speedtest (1.24)
-appstore 497799835 Xcode (13.2.1)
